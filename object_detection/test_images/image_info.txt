@@ -1,0 +1,5 @@
+
+Image provenance:
+image1.jpg: https://commons.wikimedia.org/wiki/File:Baegle_dwa.jpg
+
+
